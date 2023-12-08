@@ -1,7 +1,7 @@
 pydub==0.25.1
-ffmpeg
-simpleaudio
-librosa
-pyrubberband
-soundfile
-numpy
+ffmpeg==1.4
+simpleaudio==1.0.4
+librosa==0.10.1
+pyrubberband==0.3.0
+soundfile==0.12.1
+numpy==1.24.4
